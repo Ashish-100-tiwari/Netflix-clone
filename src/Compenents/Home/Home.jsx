@@ -4,7 +4,7 @@ import axios from "axios";
 import { Link } from "react-router-dom";
 import { BiPlay } from "react-icons/bi"
 import { AiOutlinePlus } from "react-icons/ai"
-const apiKey = "7e5122f42b3d47b2f9c1deaf4e1d2214";
+const apiKey = "2a948a7a7e8a375c03f55e98c8ad10a1";
 const url = "https://api.themoviedb.org/3";
 const imgUrl = "https://image.tmdb.org/t/p/original";
 const upcoming = "upcoming";
